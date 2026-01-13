@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FutAI Predictor Pro v2",
+  "description": "Terminal avançado de análise preditiva esportiva com Grounding do Google Search. Analisa Ligas Europeias em tempo real com profundidade estatística de xG e notícias de última hora.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
